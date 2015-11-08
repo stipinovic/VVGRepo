@@ -6,7 +6,7 @@
   <artifactId>PrijavaGreske</artifactId>
   <version>1.0</version>
   <name>PrijavaGreske</name>
-  <description>Prijava bug-ova (grešaka u sustavu) i rješavanje istih</description>
+  <description>Prijava bug-ova (gresaka u sustavu) i rješavanje istih</description>
   <build>
     <plugins>
       <plugin>
